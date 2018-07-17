@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+_dev/
+dev/
+_ignored/
+build/
+node_modules/
+.DS_Store
+.env
+*.code-workspace
+npm-debug.log*
